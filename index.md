@@ -7,3 +7,7 @@
 $ git init
 Initialized empty Git repository
 ```
+
+- [x] Take the first test in github
+- [ ] Take second test in github
+- [ ] Introduce myself to the world
